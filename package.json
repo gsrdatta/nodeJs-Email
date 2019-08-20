@@ -1,0 +1,19 @@
+{
+    "name": "nodejs-email",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon server"
+    },
+    "author": "Datta Gsr",
+    "license": "GPLv3",
+    "dependencies": {
+        "body-parser": "^1.17.2",
+        "express": "^4.15.4",
+        "nodemailer": "^4.0.1"
+    },
+    "devDependencies": {
+        "nodemon": "^1.11.0"
+    }
+}
